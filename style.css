@@ -1,0 +1,36 @@
+#footer {
+    background-color: lightgrey;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    position: sticky;
+    line-height: 3;
+    font-weight: bold;    
+}
+body{
+    background-color: lightblue;
+}
+h1{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#camera{
+    border: 2px solid grey;
+    width: 500px;
+    height: 400px;
+}
+img{
+    width: 30%;
+    padding: 5px;
+    border-radius: 20px;
+}
+img:hover{
+    border:5px solid;
+}
+.column{
+    display: inline;
+}
